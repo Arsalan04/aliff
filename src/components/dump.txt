@@ -1,0 +1,12 @@
+<SwiperSlide className=' shadow-2xl rounded-2xl overflow-hidden'>
+                    <div className='border'>
+                        <img src="/assets/event-card-1.png" alt="" className="w-full h-auto rounded-t-2xl" />
+                    </div>
+                    <div className="p-6">
+                        <p>26 July | 5:00pm - 6:00pm</p>
+                        <p className='mb-6'><span className='font-semibold'>537+</span> Registered</p>
+                        <div className="flex justify-center">
+                            <button className="bg-orange-500 text-white px-12 py-2 rounded w-full">Book a free seat</button>
+                        </div>
+                    </div>
+</SwiperSlide>
